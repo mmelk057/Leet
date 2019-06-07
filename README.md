@@ -40,3 +40,21 @@ canConstruct("aa", "aab") -> true
 
 >Runtime: 2 ms, faster than 99.24% of Java online submissions for Ransom Note.
 >> Memory Usage: 38 MB, less than 99.35% of Java online submissions for Ransom Note.
+
+### 387. First Unique Character in a String (Solved)
+Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
+
+Examples:
+```
+s = "leetcode"
+return 0.
+
+s = "loveleetcode",
+return 2.
+```
+
+Note: You may assume the string contain only lowercase letters.
+
+>Runtime: 4 ms, faster than 98.94% of Java online submissions for First Unique Character in a String.
+>>Memory Usage: 37 MB, less than 99.71% of Java online submissions for First Unique Character in a String.
+
