@@ -112,3 +112,18 @@ The 11th digit of the sequence 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ... is a 0, wh
 
 >Runtime: 0 ms, faster than 100.00% of Java online submissions for Nth Digit.
 >>Memory Usage: 32.9 MB, less than 46.59% of Java online submissions for Nth Digit
+
+### 434. Number of Segments in a String (Solved)
+
+Count the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.
+
+Please note that the string does not contain any non-printable characters.
+
+Example:
+```
+Input: "Hello, my name is John"
+Output: 5
+```
+
+>Runtime: 0 ms, faster than 100.00% of Java online submissions for Number of Segments in a String.
+>>Memory Usage: 33.7 MB, less than 99.77% of Java online submissions for Number of Segments in a String.
