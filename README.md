@@ -127,3 +127,28 @@ Output: 5
 
 >Runtime: 0 ms, faster than 100.00% of Java online submissions for Number of Segments in a String.
 >>Memory Usage: 33.7 MB, less than 99.77% of Java online submissions for Number of Segments in a String.
+
+
+### 438. Find All Anagrams in a String (Solved)
+
+Given a string s and a non-empty string p, find all the start indices of p's anagrams in s.
+
+Strings consists of lowercase English letters only and the length of both strings s and p will not be larger than 20,100.
+
+The order of output does not matter.
+
+Example 1:
+```
+Input:
+s: "cbaebabacd" p: "abc"
+
+Output:
+[0, 6]
+
+Explanation:
+The substring with start index = 0 is "cba", which is an anagram of "abc".
+The substring with start index = 6 is "bac", which is an anagram of "abc".
+```
+
+>Runtime: 26 ms, faster than 34.21% of Java online submissions for Find All Anagrams in a String.
+>>Memory Usage: 39.7 MB, less than 46.91% of Java online submissions for Find All Anagrams in a String.
