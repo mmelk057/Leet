@@ -152,3 +152,21 @@ The substring with start index = 6 is "bac", which is an anagram of "abc".
 
 >Runtime: 26 ms, faster than 34.21% of Java online submissions for Find All Anagrams in a String.
 >>Memory Usage: 39.7 MB, less than 46.91% of Java online submissions for Find All Anagrams in a String.
+
+### 404. Sum of Left Leaves (Solved) 
+
+Find the sum of all left leaves in a given binary tree.
+
+Example:
+```
+    3
+   / \
+  9  20
+    /  \
+   15   7
+
+There are two left leaves in the binary tree, with values 9 and 15 respectively. Return 24.
+```
+
+>Runtime: 0 ms, faster than 100.00% of Java online submissions for Sum of Left Leaves.
+>>Memory Usage: 36.4 MB, less than 100.00% of Java online submissions for Sum of Left Leaves.
