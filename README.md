@@ -202,3 +202,17 @@ Both numbers with value 2 are both considered as second maximum.
 
 >Runtime: 4 ms, faster than 35.04% of Java online submissions for Third Maximum Number.
 >>Memory Usage: 37.6 MB, less than 98.72% of Java online submissions for Third Maximum Number.
+
+### 415. Add Strings (Solved)
+
+Given two non-negative integers num1 and num2 represented as string, return the sum of num1 and num2.
+
+Note:
+
+- The length of both num1 and num2 is < 5100.
+- Both num1 and num2 contains only digits 0-9.
+- Both num1 and num2 does not contain any leading zero.
+- You must not use any built-in BigInteger library or convert the inputs to integer directly.
+
+>Runtime: 2 ms, faster than 97.02% of Java online submissions for Add Strings.
+>>Memory Usage: 35.9 MB, less than 99.89% of Java online submissions for Add Strings.
