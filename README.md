@@ -216,3 +216,22 @@ Note:
 
 >Runtime: 2 ms, faster than 97.02% of Java online submissions for Add Strings.
 >>Memory Usage: 35.9 MB, less than 99.89% of Java online submissions for Add Strings.
+
+### 448. Find All Numbers Disappeared in an Array (Solved)
+
+Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
+
+Find all the elements of [1, n] inclusive that do not appear in this array.
+
+Could you do it without extra space and in O(n) runtime? You may assume the returned list does not count as extra space.
+
+Example:
+```
+Input:
+[4,3,2,7,8,2,3,1]
+
+Output:
+[5,6]
+```
+>Runtime: 4 ms, faster than 99.92% of Java online submissions for Find All Numbers Disappeared in an Array.
+>>Memory Usage: 47 MB, less than 98.02% of Java online submissions for Find All Numbers Disappeared in an Array.
