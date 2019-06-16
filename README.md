@@ -235,3 +235,23 @@ Output:
 ```
 >Runtime: 4 ms, faster than 99.92% of Java online submissions for Find All Numbers Disappeared in an Array.
 >>Memory Usage: 47 MB, less than 98.02% of Java online submissions for Find All Numbers Disappeared in an Array.
+
+### 453. Minimum Moves to Equal Array Elements (Solved)
+
+Given a non-empty integer array of size n, find the minimum number of moves required to make all array elements equal, where a move is incrementing n - 1 elements by 1.
+
+Example:
+```
+Input:
+[1,2,3]
+
+Output:
+3
+
+Explanation:
+Only three moves are needed (remember each move increments two elements):
+
+[1,2,3]  =>  [2,3,3]  =>  [3,4,3]  =>  [4,4,4]
+```
+>Runtime: 15 ms, faster than 23.07% of Java online submissions for Minimum Moves to Equal Array Elements.
+>>Memory Usage: 40.1 MB, less than 97.59% of Java online submissions for Minimum Moves to Equal Array Elements.
