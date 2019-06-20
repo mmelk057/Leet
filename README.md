@@ -346,3 +346,21 @@ String S is non-empty.
 
 >Runtime: 18 ms, faster than 57.00% of Java online submissions for License Key Formatting.
 >>Memory Usage: 38 MB, less than 99.83% of Java online submissions for License Key Formatting.
+
+### 485. Max Consecutive Ones (Solved)
+
+Given a binary array, find the maximum number of consecutive 1s in this array.
+
+Example 1:
+```
+Input: [1,1,0,1,1,1]
+Output: 3
+Explanation: The first two digits or the last three digits are consecutive 1s.
+    The maximum number of consecutive 1s is 3.
+```
+Note:
+- The input array will only contain 0 and 1.
+- The length of input array is a positive integer and will not exceed 10,000
+
+>Runtime: 2 ms, faster than 99.80% of Java online submissions for Max Consecutive Ones.
+>>Memory Usage: 38 MB, less than 99.96% of Java online submissions for Max Consecutive Ones.
