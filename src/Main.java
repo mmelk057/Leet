@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Q482.licenseKeyFormatting("-bb---",2));
+        int[] values = Q492.constructRectangle(8532);
+        System.out.println(values[0]);
+        System.out.println(values[1]);
     }
 }
