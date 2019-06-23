@@ -419,3 +419,21 @@ The length of both nums1 and nums2 would not exceed 1000.
 
 >Runtime: 2 ms, faster than 96.01% of Java online submissions for Next Greater Element I.
 >>Memory Usage: 37.5 MB, less than 97.59% of Java online submissions for Next Greater Element I.
+
+### 500. Keyboard Row (Solved)
+
+Given a List of words, return the words that can be typed using letters of alphabet on only one row's of an American keyboard.
+
+ Example:
+ ```
+ Input: ["Hello", "Alaska", "Dad", "Peace"]
+ Output: ["Alaska", "Dad"]
+ ```
+ 
+ Note:
+ 
+ - You may use one character in the keyboard more than once.
+ - You may assume the input string will only contain letters of alphabet.
+
+>Runtime: 1 ms, faster than 77.24% of Java online submissions for Keyboard Row.
+>>Memory Usage: 34.4 MB, less than 99.77% of Java online submissions for Keyboard Row.
