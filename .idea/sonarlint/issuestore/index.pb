@@ -77,3 +77,7 @@ Q
 src/Q492.java,6\e\6e77fe99f20cd8c320ff0cbfc17c42ef66790e5f
 =
 src/Q496.java,c\6\c6b85e29e32fb2ba1ffe537bf630066e6de7b6c4
+=
+src/Q500.java,c\1\c13cfa547244be00ef422d41de5cb6668493a16b
+=
+src/Q504.java,7\5\759ed8fa8b4cf0b13f3adc9872ad0e421c117799

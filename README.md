@@ -437,3 +437,22 @@ Given a List of words, return the words that can be typed using letters of alpha
 
 >Runtime: 1 ms, faster than 77.24% of Java online submissions for Keyboard Row.
 >>Memory Usage: 34.4 MB, less than 99.77% of Java online submissions for Keyboard Row.
+
+### 504. Base 7 (Solved)
+
+Given an integer, return its base 7 string representation.
+
+Example 1:
+```
+Input: 100
+Output: "202"
+```
+Example 2:
+```
+Input: -7
+Output: "-10"
+```
+Note: The input will be in range of [-1e7, 1e7].
+
+>Runtime: 1 ms, faster than 94.87% of Java online submissions for Base 7.
+>>Memory Usage: 34.4 MB, less than 100.00% of Java online submissions for Base 7.
