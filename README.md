@@ -456,3 +456,21 @@ Note: The input will be in range of [-1e7, 1e7].
 
 >Runtime: 1 ms, faster than 94.87% of Java online submissions for Base 7.
 >>Memory Usage: 34.4 MB, less than 100.00% of Java online submissions for Base 7.
+
+### 506. Relative Ranks (Solved)
+
+Given scores of N athletes, find their relative ranks and the people with the top three highest scores, who will be awarded medals: "Gold Medal", "Silver Medal" and "Bronze Medal".
+
+Example 1:
+```
+Input: [5, 4, 3, 2, 1]
+Output: ["Gold Medal", "Silver Medal", "Bronze Medal", "4", "5"]
+Explanation: The first three athletes got the top three highest scores, so they got "Gold Medal", "Silver Medal" and "Bronze Medal". 
+For the left two athletes, you just need to output their relative ranks according to their scores.
+```
+Note:
+1. N is a positive integer and won't exceed 10,000.
+2. All the scores of athletes are guaranteed to be unique.
+
+>Runtime: 10 ms, faster than 46.62% of Java online submissions for Relative Ranks.
+>>Memory Usage: 40 MB, less than 82.02% of Java online submissions for Relative Ranks.

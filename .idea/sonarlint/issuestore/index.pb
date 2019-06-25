@@ -81,3 +81,5 @@ Q
 src/Q500.java,c\1\c13cfa547244be00ef422d41de5cb6668493a16b
 =
 src/Q504.java,7\5\759ed8fa8b4cf0b13f3adc9872ad0e421c117799
+=
+src/Q506.java,5\c\5ca40f8d82b9ba5e82fe3d934c1b0f303cf9888d
