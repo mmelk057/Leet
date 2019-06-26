@@ -1,5 +1,5 @@
 
-1squid:S1220""Move this file to a named package.
+Osquid:S1612",Replace this lambda with a method reference.(³Œ€üûÿÿÿÿ8‹¡´ñ¸-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(³Œ€üûÿÿÿÿ8‹¡´ñ¸-
-Osquid:S1612",Replace this lambda with a method reference.(³Œ€üûÿÿÿÿ8‹¡´ñ¸-
+1squid:S1220""Move this file to a named package.
