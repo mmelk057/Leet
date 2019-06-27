@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Q507.checkPerfectNumber(3398900));
+        for(int i=0;i<31;i++){
+            System.out.println(Q509.fib(i));
+        }
     }
 }
