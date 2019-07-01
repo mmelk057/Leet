@@ -574,7 +574,7 @@ Note:
 >Runtime: 0 ms, faster than 100.00% of Java online submissions for Longest Uncommon Subsequence I .
 >>Memory Usage: 34.2 MB, less than 100.00% of Java online submissions for Longest Uncommon Subsequence I .
 
-### 532. K-diff Pairs in an Array
+### 532. K-diff Pairs in an Array (Solved)
 
 Given an array of integers and an integer k, you need to find the number of unique k-diff pairs in the array. Here a k-diff pair is defined as an integer pair (i, j), where i and j are both numbers in the array and their absolute difference is k.
 
@@ -604,3 +604,18 @@ Note:
 
 >Runtime: 9 ms, faster than 83.98% of Java online submissions for K-diff Pairs in an Array.
 >>Memory Usage: 40.2 MB, less than 81.62% of Java online submissions for K-diff Pairs in an Array.
+
+### 541. Reverse String II (Solved)
+
+Given a string and an integer k, you need to reverse the first k characters for every 2k characters counting from the start of the string. If there are less than k characters left, reverse all of them. If there are less than 2k but greater than or equal to k characters, then reverse the first k characters and left the other as original.
+Example:
+```
+Input: s = "abcdefg", k = 2
+Output: "bacdfeg"
+```
+Restrictions:
+- The string consists of lower English letters only.
+- Length of the given string and k will in the range [1, 10000]
+
+>Runtime: 3 ms, faster than 18.53% of Java online submissions for Reverse String II.
+>>Memory Usage: 36.3 MB, less than 100.00% of Java online submissions for Reverse String II.
