@@ -619,3 +619,28 @@ Restrictions:
 
 >Runtime: 3 ms, faster than 18.53% of Java online submissions for Reverse String II.
 >>Memory Usage: 36.3 MB, less than 100.00% of Java online submissions for Reverse String II.
+
+### 551. Student Attendance Record I (Solved)
+
+You are given a string representing an attendance record for a student. The record only contains the following three characters:
+- 'A' : Absent.
+- 'L' : Late.
+- 'P' : Present.
+
+A student could be rewarded if his attendance record doesn't contain more than one 'A' (absent) or more than two continuous 'L' (late).
+
+You need to return whether the student could be rewarded according to his attendance record.
+
+Example 1:
+```
+Input: "PPALLP"
+Output: True
+```
+Example 2:
+```
+Input: "PPALLL"
+Output: False
+```
+
+>Runtime: 0 ms, faster than 100.00% of Java online submissions for Student Attendance Record I.
+>>Memory Usage: 34.5 MB, less than 100.00% of Java online submissions for Student Attendance Record I.

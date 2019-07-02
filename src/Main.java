@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Q541.reverseStr("abcdefgj",3));
+        System.out.println(Q551.checkRecord("PPALLP"));
     }
 }
