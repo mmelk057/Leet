@@ -644,3 +644,17 @@ Output: False
 
 >Runtime: 0 ms, faster than 100.00% of Java online submissions for Student Attendance Record I.
 >>Memory Usage: 34.5 MB, less than 100.00% of Java online submissions for Student Attendance Record I.
+
+### 557. Reverse Words in a String III
+
+Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+
+Example 1:
+```
+Input: "Let's take LeetCode contest"
+Output: "s'teL ekat edoCteeL tsetnoc"
+```
+Note: In the string, each word is separated by single space and there will not be any extra space in the string.
+
+>Runtime: 4 ms, faster than 84.50% of Java online submissions for Reverse Words in a String III.
+>>Memory Usage: 38 MB, less than 99.59% of Java online submissions for Reverse Words in a String III.
