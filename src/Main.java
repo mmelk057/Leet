@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Q561.arrayPairSum(new int[]{1,4,3,2}));
+        System.out.println(Q575.distributeCandies(new int[]{100000,0,100000,0,100000,0,100000,0,100000,0,100000,0}));
     }
 }
