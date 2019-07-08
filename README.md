@@ -738,3 +738,34 @@ Note: The length of the input array will not exceed 20,000.
 
 >Runtime: 30 ms, faster than 57.97% of Java online submissions for Longest Harmonious Subsequence.
 >>Memory Usage: 39.6 MB, less than 98.91% of Java online submissions for Longest Harmonious Subsequence.
+
+### 599. Minimum Index Sum of Two Lists (Solved)
+
+Suppose Andy and Doris want to choose a restaurant for dinner, and they both have a list of favorite restaurants represented by strings.
+
+You need to help them find out their common interest with the least list index sum. If there is a choice tie between answers, output all of them with no order requirement. You could assume there always exists an answer.
+
+Example 1:
+```
+Input:
+["Shogun", "Tapioca Express", "Burger King", "KFC"]
+["Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun"]
+Output: ["Shogun"]
+Explanation: The only restaurant they both like is "Shogun".
+```
+Example 2:
+```
+Input:
+["Shogun", "Tapioca Express", "Burger King", "KFC"]
+["KFC", "Shogun", "Burger King"]
+Output: ["Shogun"]
+Explanation: The restaurant they both like and have the least index sum is "Shogun" with index sum 1 (0+1).
+```
+Note:
+- The length of both lists will be in the range of [1, 1000].
+- The length of strings in both lists will be in the range of [1, 30].
+- The index is starting from 0 to the list length minus 1.
+- No duplicates in both lists.
+
+>Runtime: 13 ms, faster than 26.93% of Java online submissions for Minimum Index Sum of Two Lists.
+>>Memory Usage: 38.8 MB, less than 97.27% of Java online submissions for Minimum Index Sum of Two Lists.
