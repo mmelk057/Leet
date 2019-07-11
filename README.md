@@ -770,7 +770,7 @@ Note:
 >Runtime: 13 ms, faster than 26.93% of Java online submissions for Minimum Index Sum of Two Lists.
 >>Memory Usage: 38.8 MB, less than 97.27% of Java online submissions for Minimum Index Sum of Two Lists.
 
-### 605. Can Place Flowers
+### 605. Can Place Flowers (Solved)
 
 Suppose you have a long flowerbed in which some of the plots are planted and some are not. However, flowers cannot be planted in adjacent plots - they would compete for water and both would die.
 
@@ -794,7 +794,7 @@ Note:
 >Runtime: 1 ms, faster than 100.00% of Java online submissions for Can Place Flowers.
 >>Memory Usage: 38.9 MB, less than 97.60% of Java online submissions for Can Place Flowers.
 
-### 628. Maximum Product of Three Numbers
+### 628. Maximum Product of Three Numbers (Solved)
 
 Given an integer array, find three numbers whose product is maximum and output the maximum product.
 
@@ -815,3 +815,21 @@ Note:
 
 >Runtime: 2 ms, faster than 99.80% of Java online submissions for Maximum Product of Three Numbers.
 >>Memory Usage: 38.9 MB, less than 98.73% of Java online submissions for Maximum Product of Three Numbers.
+
+### 643. Maximum Average Subarray I (Solved)
+
+Given an array consisting of n integers, find the contiguous subarray of given length k that has the maximum average value. And you need to output the maximum average value.
+
+Example 1:
+```
+Input: [1,12,-5,-6,50,3], k = 4
+Output: 12.75
+Explanation: Maximum average is (12-5-6+50)/4 = 51/4 = 12.75
+```
+Note:
+
+1 <= k <= n <= 30,000.
+Elements of the given array will be in the range [-10,000, 10,000].
+
+>Runtime: 3 ms, faster than 97.09% of Java online submissions for Maximum Average Subarray I.
+>>Memory Usage: 42.4 MB, less than 72.13% of Java online submissions for Maximum Average Subarray I.
