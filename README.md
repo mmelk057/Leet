@@ -834,7 +834,7 @@ Elements of the given array will be in the range [-10,000, 10,000].
 >Runtime: 3 ms, faster than 97.09% of Java online submissions for Maximum Average Subarray I.
 >>Memory Usage: 42.4 MB, less than 72.13% of Java online submissions for Maximum Average Subarray I.
 
-### 645. Set Mismatch
+### 645. Set Mismatch (Solved)
 
 The set S originally contains numbers from 1 to n. But unfortunately, due to the data error, one of the numbers in the set got duplicated to another number in the set, which results in repetition of one number and loss of another number.
 
@@ -851,3 +851,27 @@ Note:
 
 >Runtime: 1 ms, faster than 100.00% of Java online submissions for Set Mismatch.
 >>Memory Usage: 40 MB, less than 98.40% of Java online submissions for Set Mismatch.
+
+### 657. Robot Return to Origin (Solved)
+
+There is a robot starting at position (0, 0), the origin, on a 2D plane. Given a sequence of its moves, judge if this robot ends up at (0, 0) after it completes its moves.
+
+The move sequence is represented by a string, and the character moves[i] represents its ith move. Valid moves are R (right), L (left), U (up), and D (down). If the robot returns to the origin after it finishes all of its moves, return true. Otherwise, return false.
+
+Note: The way that the robot is "facing" is irrelevant. "R" will always make the robot move to the right once, "L" will always make it move left, etc. Also, assume that the magnitude of the robot's movement is the same for each move.
+
+Example 1:
+```
+Input: "UD"
+Output: true 
+Explanation: The robot moves up once, and then down once. All moves have the same magnitude, so it ended up at the origin where it started. Therefore, we return true.
+```
+Example 2:
+```
+Input: "LL"
+Output: false
+Explanation: The robot moves left twice. It ends up two "moves" to the left of the origin. We return false because it is not at the origin at the end of its moves.
+```
+
+>Runtime: 5 ms, faster than 94.04% of Java online submissions for Robot Return to Origin.
+>>Memory Usage: 37.7 MB, less than 99.52% of Java online submissions for Robot Return to Origin.
