@@ -875,3 +875,26 @@ Explanation: The robot moves left twice. It ends up two "moves" to the left of t
 
 >Runtime: 5 ms, faster than 94.04% of Java online submissions for Robot Return to Origin.
 >>Memory Usage: 37.7 MB, less than 99.52% of Java online submissions for Robot Return to Origin.
+
+### 665. Non-decreasing Array (Solved)
+
+Given an array with n integers, your task is to check if it could become non-decreasing by modifying at most 1 element.
+
+We define an array is non-decreasing if array[i] <= array[i + 1] holds for every i (1 <= i < n).
+
+Example 1:
+```
+Input: [4,2,3]
+Output: True
+Explanation: You could modify the first 4 to 1 to get a non-decreasing array.
+```
+Example 2:
+```
+Input: [4,2,1]
+Output: False
+Explanation: You can't get a non-decreasing array by modify at most one element.
+```
+Note: The n belongs to [1, 10,000].
+
+>Runtime: 1 ms, faster than 99.79% of Java online submissions for Non-decreasing Array.
+>>Memory Usage: 40.1 MB, less than 95.39% of Java online submissions for Non-decreasing Array.
