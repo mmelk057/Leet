@@ -920,3 +920,24 @@ Note: Length of the array will not exceed 10,000.
 
 >Runtime: 1 ms, faster than 99.77% of Java online submissions for Longest Continuous Increasing Subsequence.
 >>Memory Usage: 38 MB, less than 100.00% of Java online submissions for Longest Continuous Increasing Subsequence.
+
+### 680. Valid Palindrome II (Solved)
+
+Given a non-empty string s, you may delete at most one character. Judge whether you can make it a palindrome.
+
+Example 1:
+```
+Input: "aba"
+Output: True
+```
+Example 2:
+```
+Input: "abca"
+Output: True
+Explanation: You could delete the character 'c'.
+```
+Note:
+1. The string will only contain lowercase characters a-z. The maximum length of the string is 50000.
+
+>Runtime: 5 ms, faster than 96.07% of Java online submissions for Valid Palindrome II.
+>>Memory Usage: 38.1 MB, less than 100.00% of Java online submissions for Valid Palindrome II.
