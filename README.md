@@ -1001,3 +1001,36 @@ The length of A and B will be between 1 and 10000.
 
 >Runtime: 68 ms, faster than 86.44% of Java online submissions for Repeated String Match.
 >>Memory Usage: 36.7 MB, less than 99.55% of Java online submissions for Repeated String Match.
+
+### 687. Longest Univalue Path (Solved)
+
+Given a binary tree, find the length of the longest path where each node in the path has the same value. This path may or may not pass through the root.
+
+The length of path between two nodes is represented by the number of edges between them.
+
+Example 1:
+```
+Input:
+              5
+             / \
+            4   5
+           / \   \
+          1   1   5
+Output: 2
+```
+Example 2:
+```
+Input:
+
+              1
+             / \
+            4   5
+           / \   \
+          4   4   5
+Output: 2
+```
+
+Note: The given binary tree has not more than 10000 nodes. The height of the tree is not more than 1000.
+
+>Runtime: 6 ms, faster than 12.20% of Java online submissions for Longest Univalue Path.
+>>Memory Usage: 42.1 MB, less than 99.85% of Java online submissions for Longest Univalue Path.
