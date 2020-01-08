@@ -131,3 +131,5 @@ Q
 src/Q686.java,6\e\6e164ecfdc72166b811e194e76be711e7bed444c
 =
 src/Q687.java,b\1\b1345d290159daa5a35826fe3d85de22450c5ca1
+=
+src/Q696.java,5\c\5c1d5b69e8a7c8e93b0ccaf9ce635182b5a066fc
