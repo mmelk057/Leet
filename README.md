@@ -11,6 +11,20 @@ The order of elements can be changed. It doesn't matter what you leave beyond th
 >Runtime: 0 ms, faster than 100.00% of Java online submissions for Remove Element.
 >>Memory Usage: 36.2 MB, less than 100.00% of Java online submissions for Remove Element.
 
+### 35. Search Insert
+
+Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
+You may assume no duplicates in the array.
+
+Example 1:
+```
+Input: [1,3,5,6], 5
+Output: 2
+```
+
+>Runtime: 0 ms, faster than 100.00% of Java online submissions for Search Insert Position.
+>>Memory Usage: 39.3 MB, less than 100.00% of Java online submissions for Search Insert Position.
 
 ### 374. Guess Number Higher or Lower (Solved)
 We are playing the Guess Game. The game is as follows:
