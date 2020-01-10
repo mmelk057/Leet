@@ -1,8 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int[] arrayValue = new int[]{1,2,4,6,7};
-        for(int i = 0; i<9; i++){
-            System.out.println(Q35.searchInsert(arrayValue, i));
+        int[] arrayValue = new int[]{1,1,2,4,4,6,7};
+        System.out.print(Q26.removeDuplicates(arrayValue));
+        for(int i = 0; i < arrayValue.length ; i++) {
+            System.out.println(arrayValue[i]);
         }
     }
 }
