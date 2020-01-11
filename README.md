@@ -1,7 +1,30 @@
 # Leet
 All my solutions to Leet code problems can be found here
 
-### 26. Remove Duplicates from Sorted Array
+### 14. Longest Common Prefix (Solved)
+
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+
+Example 1:
+```
+Input: ["flower","flow","flight"]
+Output: "fl"
+```
+Example 2:
+```
+Input: ["dog","racecar","car"]
+Output: ""
+```
+Explanation: There is no common prefix among the input strings.
+
+> Runtime: 1 ms, faster than 74.92% of Java online submissions for Longest Common Prefix.
+>> Memory Usage: 38.6 MB, less than 69.59% of Java online submissions for Longest Common Prefix.
+
+
+### 26. Remove Duplicates from Sorted Array (Solved)
+
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.

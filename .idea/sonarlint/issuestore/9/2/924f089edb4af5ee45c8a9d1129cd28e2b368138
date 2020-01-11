@@ -1,4 +1,6 @@
 
-1squid:S1220""Move this file to a named package.
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ûü¦úùÿÿÿÿ8¼íŽýø-
+1squid:S1220""Move this file to a named package.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾Ü»À8¦Ä¯‰ù-
