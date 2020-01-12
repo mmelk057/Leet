@@ -59,6 +59,26 @@ The order of elements can be changed. It doesn't matter what you leave beyond th
 >Runtime: 0 ms, faster than 100.00% of Java online submissions for Remove Element.
 >>Memory Usage: 36.2 MB, less than 100.00% of Java online submissions for Remove Element.
 
+### 28. Implement strStr() (Solved)
+
+Implement strStr().
+
+Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+Example 1:
+```
+Input: haystack = "hello", needle = "ll"
+Output: 2
+```
+Example 2:
+```
+Input: haystack = "aaaaa", needle = "bba"
+Output: -1
+```
+
+>Runtime: 0 ms, faster than 100.00% of Java online submissions for Implement strStr().
+>>````Memory Usage: 38.2 MB, less than 64.88% of Java online submissions for Implement strStr().
+
 ### 35. Search Insert
 
 Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
