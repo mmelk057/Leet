@@ -1,6 +1,31 @@
 # Leet
 All my solutions to Leet code problems can be found here
 
+### 9.Palindrome Number (Solved)
+
+Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+Example 1:
+```
+Input: 121
+Output: true
+```
+Example 2:
+```
+Input: -121
+Output: false
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+```
+Example 3:
+```
+Input: 10
+Output: false
+Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+```
+
+> Runtime: 7 ms, faster than 80.06% of Java online submissions for Palindrome Number.
+>> Memory Usage: 37.1 MB, less than 5.02% of Java online submissions for Palindrome Number.
+
 ### 14. Longest Common Prefix (Solved)
 
 Write a function to find the longest common prefix string amongst an array of strings.
