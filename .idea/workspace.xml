@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="334c2a11-7e6e-4937-b08f-1b85f02c55f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="459">
-                <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <first_editor relative-caret-position="119">
+                <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,10 +31,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q9.java">
+        <entry file="file://$PROJECT_DIR$/src/Q13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -44,7 +43,11 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Q400.java" />
         <option value="$PROJECT_DIR$/src/Q434.java" />
         <option value="$PROJECT_DIR$/src/Q438.java" />
         <option value="$PROJECT_DIR$/src/SupportingFiles/TreeNode.java" />
@@ -117,15 +119,17 @@
         <option value="$PROJECT_DIR$/src/Q26.java" />
         <option value="$PROJECT_DIR$/src/Q14.java" />
         <option value="$PROJECT_DIR$/src/Q28.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Q9.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Q13.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="915" />
-    <option name="width" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="400" />
+    <option name="y" value="1" />
+    <option name="width" value="1472" />
     <option name="height" value="1032" />
   </component>
   <component name="ProjectView">
@@ -133,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -157,7 +161,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578933782319" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579008372357" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -267,14 +271,8 @@
       <workItem from="1578758408760" duration="2229000" />
       <workItem from="1578854842573" duration="2867000" />
       <workItem from="1578866347386" duration="4000" />
-      <workItem from="1578922870893" duration="8983000" />
-    </task>
-    <task id="LOCAL-00004" summary="#3: LeetCode question #387; first unique character in a string">
-      <created>1559910942508</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1559910942508</updated>
+      <workItem from="1578922870893" duration="9188000" />
+      <workItem from="1579003531526" duration="4825000" />
     </task>
     <task id="LOCAL-00005" summary="#4: LeetCode question #389; finding the unique letter between two Strings">
       <created>1560007240365</created>
@@ -612,17 +610,23 @@
       <option name="project" value="LOCAL" />
       <updated>1578857474638</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="#52: LeetCode question #9; isPalindrome">
+      <created>1578933848596</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1578933848597</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156889000" />
+    <option name="totallyTimeSpent" value="161919000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
+    <frame x="267" y="1" width="981" height="688" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21700405" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12703583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -631,8 +635,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26465365" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29129663" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26287743" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2877698" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -730,7 +734,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#27: LeetCode question #541; reversing a string in k-intervals" />
     <MESSAGE value="#28: LeetCode question #551; perfect attendence verifier" />
     <MESSAGE value="#29: LeetCode question #557; reverse a string with whitespace" />
     <MESSAGE value="#30: LeetCode question #561; max sum of minimum pairs for an array" />
@@ -755,7 +758,8 @@
     <MESSAGE value="#49: LeetCode question #26; Remove Duplicates from Array" />
     <MESSAGE value="#50: LeetCode question #14; Longest Common Prefix" />
     <MESSAGE value="#51: LeetCode question #28; Implement strStr()" />
-    <option name="LAST_COMMIT_MESSAGE" value="#51: LeetCode question #28; Implement strStr()" />
+    <MESSAGE value="#52: LeetCode question #9; isPalindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="#52: LeetCode question #9; isPalindrome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -795,6 +799,12 @@
           <line>2</line>
           <properties />
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q13.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -852,16 +862,6 @@ int y = nums[mid]
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Q414.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="93" selection-start-line="18" selection-start-column="93" selection-end-line="18" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q326.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1209,27 +1209,38 @@ int y = nums[mid]
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Q9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        <state relative-caret-position="136">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="459">
-            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <first_editor relative-caret-position="119">
+            <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q9.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
