@@ -462,6 +462,24 @@ Because the 4th row is incomplete, we return 3.
 >Runtime: 8 ms, faster than 43.49% of Java online submissions for Arranging Coins.
 >>Memory Usage: 33.6 MB, less than 33.76% of Java online submissions for Arranging Coins.
 
+### 456. 132 Pattern (Solved)
+
+Given a sequence of n integers a1, a2, ..., an, a 132 pattern is a subsequence ai, aj, ak such that i < j < k and ai < ak < aj. Design an algorithm that takes a list of n numbers as input and checks whether there is a 132 pattern in the list.
+
+Note: n will be less than 15,000.
+
+Example 1:
+```
+Input: [1, 2, 3, 4]
+
+Output: False
+
+Explanation: There is no 132 pattern in the sequence.
+```
+
+> Runtime: 10 ms, faster than 82.19% of Java online submissions for 132 Pattern.
+>> Memory Usage: 40.9 MB, less than 14.29% of Java online submissions for 132 Pattern.
+ 
 ### 459. Repeated Substring Pattern (Solved)
 
 Given a non-empty string check if it can be constructed by taking a substring of it and appending multiple copies of the substring together. You may assume the given string consists of lowercase English letters only and its length will not exceed 10000.
