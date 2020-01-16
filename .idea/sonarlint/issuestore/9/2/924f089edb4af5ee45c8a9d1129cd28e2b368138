@@ -1,3 +1,4 @@
 
 1squid:S1220""Move this file to a named package.
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Àú¹ú-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê™±Õ8ÄŞ¸Ìú-
