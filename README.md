@@ -172,6 +172,21 @@ Output: 2
 >Runtime: 0 ms, faster than 100.00% of Java online submissions for Search Insert Position.
 >>Memory Usage: 39.3 MB, less than 100.00% of Java online submissions for Search Insert Position.
 
+### 258. Add Digits (Solved)
+
+Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.
+
+Example:
+```
+Input: 38
+Output: 2 
+Explanation: The process is like: 3 + 8 = 11, 1 + 1 = 2. 
+             Since 2 has only one digit, return it.
+```
+
+> Runtime: 1 ms, faster than 100.00% of Java online submissions for Add Digits.
+>> Memory Usage: 39.4 MB, less than 6.67% of Java online submissions for Add Digits.
+
 ### 374. Guess Number Higher or Lower (Solved)
 We are playing the Guess Game. The game is as follows:
 
