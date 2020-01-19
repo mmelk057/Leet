@@ -1268,6 +1268,41 @@ Note:
 >Runtime: 11 ms, faster than 80.13% of Java online submissions for Count Binary Substrings.
 >>Memory Usage: 36.8 MB, less than 100.00% of Java online submissions for Count Binary Substrings.
 
+### 868. Binary Gap (Solved)
+
+Given a positive integer N, find and return the longest distance between two consecutive 1's in the binary representation of N.
+
+If there aren't two consecutive 1's, return 0.
+
+Example 1:
+```
+Input: 22
+Output: 2
+Explanation: 
+22 in binary is 0b10110.
+In the binary representation of 22, there are three ones, and two consecutive pairs of 1's.
+The first consecutive pair of 1's have distance 2.
+The second consecutive pair of 1's have distance 1.
+The answer is the largest of these two distances, which is 2.
+```
+Example 2:
+```
+Input: 5
+Output: 2
+Explanation: 
+5 in binary is 0b101.
+```
+Example 3:
+```
+Input: 6
+Output: 1
+Explanation: 
+6 in binary is 0b110.
+```
+
+> Runtime: 0 ms, faster than 100.00% of Java online submissions for Binary Gap.
+>> Memory Usage: 39 MB, less than 7.14% of Java online submissions for Binary Gap.
+
 ### 989. Add to Array-Form of Integer (Solved)
 
 For a non-negative integer X, the array-form of X is an array of its digits in left to right order.  For example, if X = 1231, then the array form is [1,2,3,1].
