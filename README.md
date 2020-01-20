@@ -101,6 +101,28 @@ Explanation: There is no common prefix among the input strings.
 >> Memory Usage: 38.6 MB, less than 69.59% of Java online submissions for Longest Common Prefix.
 
 
+### 15. 3Sum (Solved)
+
+Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+
+Note:
+
+The solution set must not contain duplicate triplets.
+
+Example:
+```
+Given array nums = [-1, 0, 1, 2, -1, -4],
+
+A solution set is:
+[
+  [-1, 0, 1],
+  [-1, -1, 2]
+]
+```
+
+> Runtime: 31 ms, faster than 74.27% of Java online submissions for 3Sum.
+>> Memory Usage: 56.3 MB, less than 5.29% of Java online submissions for 3Sum.
+
 ### 26. Remove Duplicates from Sorted Array (Solved)
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
