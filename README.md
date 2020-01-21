@@ -123,6 +123,29 @@ A solution set is:
 > Runtime: 31 ms, faster than 74.27% of Java online submissions for 3Sum.
 >> Memory Usage: 56.3 MB, less than 5.29% of Java online submissions for 3Sum.
 
+### 18. 4Sum (Solved)
+
+Given an array nums of n integers and an integer target, are there elements a, b, c, and d in nums such that a + b + c + d = target? Find all unique quadruplets in the array which gives the sum of target.
+
+Note:
+
+The solution set must not contain duplicate quadruplets.
+
+Example:
+```
+Given array nums = [1, 0, -1, 0, -2, 2], and target = 0.
+
+A solution set is:
+[
+  [-1,  0, 0, 1],
+  [-2, -1, 1, 2],
+  [-2,  0, 0, 2]
+]
+```
+
+> Runtime: 18 ms, faster than 75.29% of Java online submissions for 4Sum.
+>> Memory Usage: 44.6 MB, less than 31.88% of Java online submissions for 4Sum.
+
 ### 26. Remove Duplicates from Sorted Array (Solved)
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
