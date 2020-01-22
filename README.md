@@ -217,6 +217,20 @@ Output: 2
 >Runtime: 0 ms, faster than 100.00% of Java online submissions for Search Insert Position.
 >>Memory Usage: 39.3 MB, less than 100.00% of Java online submissions for Search Insert Position.
 
+### 209. Minimum Size Subarray Sum (Solved)
+
+Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum ≥ s. If there isn't one, return 0 instead.
+
+Example: 
+```
+Input: s = 7, nums = [2,3,1,2,4,3]
+Output: 2
+Explanation: the subarray [4,3] has the minimal length under the problem constraint.
+```
+
+> Runtime: 3 ms, faster than 20.96% of Java online submissions for Minimum Size Subarray Sum.
+>>  Memory Usage: 47.7 MB, less than 5.71% of Java online submissions for Minimum Size Subarray Sum.
+
 ### 258. Add Digits (Solved)
 
 Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.

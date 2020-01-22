@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Q18.fourSum(new int[]{-1, -5, -5, -3, 2, 5, 0, 4}, -7);
+        int[] arr = new int[]{1, 1, 1, 1, 100, 1, 1, 1};
+        Q209.minSubArrayLen(7, arr);
     }
 }
