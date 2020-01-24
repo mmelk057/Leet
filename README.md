@@ -123,6 +123,20 @@ A solution set is:
 > Runtime: 31 ms, faster than 74.27% of Java online submissions for 3Sum.
 >> Memory Usage: 56.3 MB, less than 5.29% of Java online submissions for 3Sum.
 
+### 16. 3Sum Closest (Solved)
+
+Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target. Return the sum of the three integers. You may assume that each input would have exactly one solution.
+
+Example:
+```
+Given array nums = [-1, 2, 1, -4], and target = 1.
+
+The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
+```
+
+> Runtime: 21 ms, faster than 12.46% of Java online submissions for 3Sum Closest.
+>> Memory Usage: 46.7 MB, less than 6.67% of Java online submissions for 3Sum Closest.
+
 ### 18. 4Sum (Solved)
 
 Given an array nums of n integers and an integer target, are there elements a, b, c, and d in nums such that a + b + c + d = target? Find all unique quadruplets in the array which gives the sum of target.
