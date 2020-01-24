@@ -202,6 +202,25 @@ Output: -1
 >Runtime: 0 ms, faster than 100.00% of Java online submissions for Implement strStr().
 >>````Memory Usage: 38.2 MB, less than 64.88% of Java online submissions for Implement strStr().
 
+### 31. Next Permutation (Solved)
+
+Implement next permutation, which rearranges numbers into the lexicographically next greater permutation of numbers.
+
+If such arrangement is not possible, it must rearrange it as the lowest possible order (ie, sorted in ascending order).
+
+The replacement must be in-place and use only constant extra memory.
+
+Here are some examples. Inputs are in the left-hand column and its corresponding outputs are in the right-hand column.
+```
+1,2,3 → 1,3,2
+3,2,1 → 1,2,3
+1,1,5 → 1,5,1
+```
+
+> Runtime: 3 ms, faster than 6.57% of Java online submissions for Next Permutation.
+>> Memory Usage: 43.9 MB, less than 6.00% of Java online submissions for Next Permutation.
+
+
 ### 35. Search Insert
 
 Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
