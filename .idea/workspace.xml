@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="334c2a11-7e6e-4937-b08f-1b85f02c55f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q122.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +17,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="37">
+                <caret line="246" column="6" selection-start-line="246" selection-start-column="6" selection-end-line="246" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q122.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Q459.java" />
         <option value="$PROJECT_DIR$/src/Q482.java" />
         <option value="$PROJECT_DIR$/src/Q485.java" />
         <option value="$PROJECT_DIR$/src/Q492.java" />
@@ -87,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Q16.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Q39.java" />
       </list>
     </option>
   </component>
@@ -101,8 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,13 +140,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579875825146" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580001658721" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -248,14 +271,8 @@
       <workItem from="1579710248077" duration="2992000" />
       <workItem from="1579798792968" duration="8072000" />
       <workItem from="1579825294444" duration="3112000" />
-      <workItem from="1579873382015" duration="2476000" />
-    </task>
-    <task id="LOCAL-00014" summary="#13: LeetCode question #441; total of n coins to form a staircase shape">
-      <created>1560772347525</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1560772347526</updated>
+      <workItem from="1579873382015" duration="2529000" />
+      <workItem from="1580000526039" duration="967000" />
     </task>
     <task id="LOCAL-00015" summary="#14: LeetCode question #459; repeated substring pattern">
       <created>1560862608032</created>
@@ -593,16 +610,24 @@
       <option name="project" value="LOCAL" />
       <updated>1579828395823</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="#62: LeetCode question #16; 3Sum Closest">
+      <created>1579875894793</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1579875894794</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208940000" />
+    <option name="totallyTimeSpent" value="209960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17732793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1805668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -612,7 +637,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.25399646" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.053285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.053285968" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -710,7 +735,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="#37: LeetCode question #643; maximum k-sized subarr average" />
     <MESSAGE value="#38: LeetCode question #645; finding duplicate nums in array" />
     <MESSAGE value="#39: LeetCode question #647; Robot finding origin" />
     <MESSAGE value="#40: LeetCode question #665; non-decreasing array" />
@@ -735,7 +759,8 @@
     <MESSAGE value="#59: LeetCode question #18; 4Sum" />
     <MESSAGE value="#60: LeetCode question #209; Minimum Size Subarray Sum" />
     <MESSAGE value="#61: LeetCode question #31; Next Permutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="#61: LeetCode question #31; Next Permutation" />
+    <MESSAGE value="#62: LeetCode question #16; 3Sum Closest" />
+    <option name="LAST_COMMIT_MESSAGE" value="#62: LeetCode question #16; 3Sum Closest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -859,14 +884,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../Textbooks_School/CSI3131/Labs/Lab3/lab3/FerryApp.java" />
-    <entry file="file://$PROJECT_DIR$/src/Q492.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1227,13 +1244,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q39.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="381">
-            <caret line="138" selection-start-line="138" selection-end-line="138" />
+          <first_editor relative-caret-position="37">
+            <caret line="246" column="6" selection-start-line="246" selection-start-column="6" selection-end-line="246" selection-end-column="6" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q122.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
