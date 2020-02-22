@@ -1115,6 +1115,15 @@ Note:
 >Runtime: 1 ms, faster than 100.00% of Java online submissions for Can Place Flowers.
 >>Memory Usage: 38.9 MB, less than 97.60% of Java online submissions for Can Place Flowers.
 
+### 620. Not Boring Movies (Solved) ---> SQL
+
+
+X city opened a new cinema, many people would like to go to this cinema. The cinema also gives out a poster indicating the movies’ ratings and descriptions.
+Please write a SQL query to output movies with an odd numbered ID and a description that is not 'boring'. Order the result by rating.
+
+>Runtime: 132 ms, faster than 95.28% of MySQL online submissions for Not Boring Movies.
+>>Memory Usage: 0B, less than 100.00% of MySQL online submissions for Not Boring Movies.
+
 ### 628. Maximum Product of Three Numbers (Solved)
 
 Given an integer array, find three numbers whose product is maximum and output the maximum product.

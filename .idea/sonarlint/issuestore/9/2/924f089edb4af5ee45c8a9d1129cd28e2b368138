@@ -1,2 +1,55 @@
 
+osquid:S1192!"QDefine a constant instead of duplicating this literal "False Positives:" 5 times.(Ø±¨8ì¡ú§….
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(æÑˆª8›¦¶¦….
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Ø±¨8Îß²¦….
+nsquid:S1149ì"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(£Ş„8ıÅ¦¦….
+W
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(æÑˆª8æ¡¢«….
+V
+squid:S106t"9Replace this use of System.out or System.err by a logger.(Ø±¨8Äå¨….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.( Ğ×Óüÿÿÿÿ8å ‹¦….
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(Ø±¨8í¨ò¦….
+V
+squid:S106|"9Replace this use of System.out or System.err by a logger.(æÑˆª8Äå¨….
+\
+squid:S106€"9Replace this use of System.out or System.err by a logger.(‚ÓßËøÿÿÿÿ8Äå¨….
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(‚ÓßËøÿÿÿÿ8í¨ò¦….
+osquid:S1192)"QDefine a constant instead of duplicating this literal "False Negatives:" 5 times.(æÑˆª8ì¡ú§….
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ÉŒËÿÿÿÿÿ8æ¡¢«….
 1squid:S1220""Move this file to a named package.
+\
+squid:S106•"9Replace this use of System.out or System.err by a logger.(‚ÓßËøÿÿÿÿ8æ¡¢«….
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğùëÂüÿÿÿÿ8Ç±ŠÖ….
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(‚ÓßËøÿÿÿÿ8–¤¸¦….
+esquid:S1854"BRemove this useless assignment to local variable "binaryAlphabet".(—éÂÿÿÿÿÿ8Ç±ŠÖ….
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(æÑˆª8í¨ò¦….
+osquid:S1149æ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(üÕ¼Ò8ıÅ¦¦….
+tsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.( Ğ×Óüÿÿÿÿ8ÙÎ¦….
+V
+squid:S106`"9Replace this use of System.out or System.err by a logger.(æÑˆª8ì¡ú§….
+`squid:S1126¡"AReplace this if-then-else statement by a single return statement.(“¦çŠ8¯–š«….
+Vsquid:S1481"3Remove this unused "binaryAlphabet" local variable.(—éÂÿÿÿÿÿ8Ç±ŠÖ….
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.(Ø±¨8ì¡ú§….
+Ysquid:S1854"<Remove this useless assignment to local variable "alphabet".(¾Ñ¹48Ç±ŠÖ….
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(¯ÉŒËÿÿÿÿÿ8ì¡ú§….
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¯ÉŒËÿÿÿÿÿ8†¨´¦….
+[
+squid:S106d"9Replace this use of System.out or System.err by a logger.(‚ÓßËøÿÿÿÿ8ì¡ú§….
+[
+squid:S106x"9Replace this use of System.out or System.err by a logger.(¯ÉŒËÿÿÿÿÿ8Äå¨….
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¯ÉŒËÿÿÿÿÿ8í¨ò¦….
+Jsquid:S1481"-Remove this unused "alphabet" local variable.(¾Ñ¹48Ç±ŠÖ….
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(Ø±¨8æ¡¢«….
